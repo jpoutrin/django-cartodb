@@ -7,7 +7,7 @@ setup(
     version='0.1',
     install_requires=[
         'django>=1.4',
-        'cartodb-python>=0.6'],
+        'cartodb>=0.6'],
     url='https://github.com/yoinup/django-cartodb',
     packages=find_packages(),
     include_package_data=True,
